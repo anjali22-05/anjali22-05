@@ -2,7 +2,6 @@
 <h1>👋 Hi, I'm Anjali – Web Developer</h1>
 <p class="tagline">I create clean UI, smooth UX, and build scalable web applications.</p>
 <h2 class="section-title">🚀 Skills</h2>
-<h2 class="section-title">🚀 Skills</h2>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
